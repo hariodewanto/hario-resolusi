@@ -3,6 +3,7 @@ RENCANA KURUS
 - Melakukan GYM
     *Angkat Beban
     *Pull UP
-- Joggin sore
 - Makan teratur
+   ^ makan 3 kali sehari
+   ^ makan sayur
 - Makan makanan sehat
